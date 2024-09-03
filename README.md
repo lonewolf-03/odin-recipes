@@ -1,0 +1,1 @@
+A simple website that show few recipes , their ingredients , and how to prepare them. In this project, I used in using image tags, anchor tags, list (orderd and unordered) tags, header tags , and paragraph tags. 
