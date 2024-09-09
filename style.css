@@ -1,0 +1,43 @@
+body{
+    font-family: cursive, monospace, serif;
+    background-color: burlywood;
+}
+
+.main-header{
+    font-size: 60px;
+    text-align: center;
+    color:brown; 
+    font-weight: 700;
+}
+
+.meal-image{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.introduction, .ingredients-list, .steps-list{
+    font-family: serif;
+    color: brown;
+    font-size: 15px;
+}
+
+
+h3{
+    font-size: 30px;
+}
+
+.meal-name-header, .ingredients-header, .steps-header, .source-link, .recipe-link{
+    font-weight: 500;
+    font-family: serif;
+    color: brown;
+}
+
+.source-link{
+    text-align: center;
+}
+
+.recipe-link, .source-link{
+    font-size: 20px;
+}
+
